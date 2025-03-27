@@ -6,3 +6,4 @@ layout: default
 
 Hi, I'm **Stanley Sujith Nelavala** – a Computer Science graduate, researcher, and aspiring software developer.  
 Explore my work, research interests, and professional journey here.
+Thus is text to see if it si working 
