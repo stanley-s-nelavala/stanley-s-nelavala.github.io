@@ -5,7 +5,7 @@ layout: default
 <h1 style="text-align:center">Stanley Sujith Nelavala</h1>
 
 <p style="text-align:center;">
-  <img src="/assets/img/profile.jpg" alt="Stanley Sujith Nelavala" style="border-radius:50%; width:200px;" />
+  <img src="stan-hs1-dquare.jpg" alt="Stanley Sujith Nelavala" style="border-radius:50%; width:200px;" />
 </p>
 
 <div style="text-align:center;">
