@@ -1,5 +1,38 @@
 title: Stanley Sujith Nelavala
-description: Personal website of Stanley Sujith Nelavala
+description: |
+  <div style="text-align: center;">
+    <img src="stan-hs1-dquare.jpg" alt="Profile Photo" style="border-radius: 50%; width: 100%; margin-bottom: 1em;">
+    <br>
+    <a href="https://github.com/stanley-s-nelavala"><i class="fa fa-github"></i> GitHub</a> |
+    <a href="https://www.linkedin.com/in/stanley-sujith-nelavala/"><i class="fa fa-linkedin"></i> LinkedIn</a> |
+    <a href="mailto:nelav002@d.umn.edu"><i class="fa fa-envelope"></i> Email</a>
+  </div>
+
+  <div style="margin-top: 1.5em; text-align: center; line-height: 1.8;">
+  <a href="#about-me">About Me</a><br/>
+  <a href="#skills">Skills</a><br/>
+  <a href="#certifications">Certifications</a><br/>
+  <a href="#research-highlights">Research &amp; Teaching Experience</a><br/>
+  <a href="#projects">Projects</a><br/>
+  <a href="#publications">Publications</a><br/>
+  <a href="#cv">Resume</a>
+  </div>
+
+
+  <div style="margin-top: 2em; font-style: italic; text-align: center; color: #555;">
+    “Walking on water and developing software from a specification are easy if both are frozen.”<br/>
+    — Edward V.Berard
+  </div>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+include:
+  - favicon.ico
+
+show_downloads: false
+show_downloads_icon: false
+github:
+  is_project_page: false
+  repository_url: ""
+

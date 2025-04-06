@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {% include head-custom.html %}
+    <style>
+      /* override the wrapper’s max-width so content is full-bleed */
+      .wrapper {
+        max-width: none !important;
+        width: 100%;
+        padding: 1rem; /* optional gutter */
+      }
+      /* optionally remove any default section padding/margins */
+      .wrapper section {
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
