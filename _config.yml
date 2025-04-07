@@ -32,7 +32,5 @@ include:
 
 show_downloads: false
 show_downloads_icon: false
-github:
-  is_project_page: false
-  repository_url: ""
+
 
