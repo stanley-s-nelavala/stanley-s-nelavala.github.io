@@ -19,10 +19,7 @@ description: |
   </div>
 
 
-  <div style="margin-top: 2em; font-style: italic; text-align: center; color: #555;">
-    “Walking on water and developing software from a specification are easy if both are frozen.”<br/>
-    — Edward V.Berard
-  </div>
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
