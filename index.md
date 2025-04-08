@@ -142,17 +142,18 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 <!-- Project 2 -->
 <div style="display: flex; justify-content: center; padding: 1.5em 0;">
   <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
-    <h3 style="margin-top: 0;">CADCart – Cloud‑Based CAD Model Repository <span style="font-weight: normal;">(Dec 2024 – Present)</span></h3>
+    <h3 style="margin-top: 0;">MarketPulseRT – Real-Time Stock Market Data Pipeline <span style="font-weight: normal;">(Dec 2024 – Jan 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
-      <li>Designed a scalable web platform for CAD model sharing, similar to GitHub, deployed on AWS (EC2, S3, RDS, IAM, Route 53).</li>
-      <li>Used elastic load balancers for fault tolerance and AWS IAM for secure, role-based access control.</li>
-      <li>Optimized query performance and automated deployment using AWS CloudShell.</li>
+      <li>Developed a real-time data pipeline that streams and processes stock market data using Kafka and Python.</li>
+      <li>Deployed Kafka producers/consumers on EC2, streamed to S3, and transformed using AWS Glue.</li>
+      <li>Enabled real-time querying with Athena over the processed data.</li>
+      <li>Designed a scalable architecture for ingesting and analyzing financial datasets.</li>
     </ul>
     <div>
-      <a href="#" 
+      <a href="[https://colab.research.google.com/drive/16e6atDJu9pSgnqpjxHY06ZEosgQeRy9C?usp=sharing](https://github.com/stanley-s-nelavala/MarketPulseRT)" 
          target="_blank" rel="noopener" 
-         style="display: inline-block; padding: 0.4em 1em; background-color: #000; color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
-        GitHub (Coming Soon)
+         style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+        GitHub Link
       </a>
     </div>
   </div>
@@ -175,7 +176,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
       </a>
       <a href="/assets/Files/Analyzing_Fine_tuned_Large_Language_Models_Multilingual_Capabilities_and_Addressing_Various_Linguistic_Tasks.pdf" 
          target="_blank" rel="noopener" 
-         style="display: inline-block; padding: 0.4em 1em; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+         style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         View Project Paper / Report (PDF)
       </a>
     </div>
