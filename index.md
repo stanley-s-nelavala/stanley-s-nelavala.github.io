@@ -150,7 +150,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
       <li>Designed a scalable architecture for ingesting and analyzing financial datasets.</li>
     </ul>
     <div>
-      <a href="[https://colab.research.google.com/drive/16e6atDJu9pSgnqpjxHY06ZEosgQeRy9C?usp=sharing](https://github.com/stanley-s-nelavala/MarketPulseRT)" 
+      <a href="https://github.com/stanley-s-nelavala/MarketPulseRT" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         GitHub Link
