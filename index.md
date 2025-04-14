@@ -130,6 +130,11 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
       <li>Designed visualizations and topic modeling using Pandas, Plotly, and LDA to analyze misinformation trends.</li>
     </ul>
     <div>
+      <a href="https://csgrad02.d.umn.edu/" 
+         target="_blank" rel="noopener" 
+         style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+        Project Website
+      </a>
       <a href="#" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; background-color: #000; color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
@@ -174,6 +179,11 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
          style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         View Colab Notebook
       </a>
+      <a href="https://github.com/stanley-s-nelavala/FineTune-Multilingual-LLMs" 
+         target="_blank" rel="noopener" 
+         style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+        GitHub
+      </a>
       <a href="/assets/Files/Analyzing_Fine_tuned_Large_Language_Models_Multilingual_Capabilities_and_Addressing_Various_Linguistic_Tasks.pdf" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
@@ -193,6 +203,11 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
       <li>Designed an intuitive UI with Figma, featuring interactive maps, reminders, and onboarding tips.</li>
     </ul>
     <div>
+      <a href="https://www.figma.com/proto/j8n92nHtbSduviiv6cBVHe/BULLDOG-ON-BOARD?node-id=7-243&p=f&t=TeluHpBRCPBJzrhI-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A243&show-proto-sidebar=1" 
+         target="_blank" rel="noopener" 
+         style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+        Prototype(Figma)
+      </a>
       <a href="#" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; background-color: #000; color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
