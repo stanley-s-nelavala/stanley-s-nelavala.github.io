@@ -76,7 +76,8 @@ or via <a href="mailto:nelav002@d.umn.edu">email</a> to discuss projects, resear
   <li>
     <strong>Graduate Research Assistant</strong>, University of Minnesota Duluth (Dec 2024 – Aug 2025)  
 <br>
-Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi-Modal Misinformation on Transgender and Nonbinary (TGNB) Issues on TikTok</i>
+Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) <br>
+Project: <i>Investigating Multi-Modal Misinformation on Transgender and Nonbinary (TGNB) Issues on TikTok</i>
 <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
   <li>Developed secure web applications to gather TikTok browsing histories from TGNB participants; integrated survey workflows via <b>Prolific</b> with large-scale automated scraping.</li>
   <li>Engineered a relational <b>MySQL schema</b> to manage >1M videos and 300k+ authors, structured across metadata, statistics, and multimodal features.</li>
@@ -88,7 +89,7 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
   </li>
 </ul>
 
-  </li>
+  
 
   <li>
     <strong>Graduate Teaching Assistant</strong>, University of Minnesota Duluth (Aug 2023 – Dec 2024)
@@ -117,7 +118,7 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
     </ul>
   </li>
 
-</ul>
+
 
 
 ---
@@ -125,8 +126,8 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 ## <a id="projects"></a>Projects
 
 <!-- Project 1 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0;  ">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0; ">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">Investigating Multi‑Modal Misinformation on Transgender and Non‑Binary Issues - Masters Thesis <span style="font-weight: normal;">(Aug 2023 – Aug 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Engineered an end-to-end multimodal data pipeline combining secure participant-facing web apps, Prolific integration, and automated TikTok scraping to collect >1M videos and 300k+ unique authors.</li>
@@ -157,7 +158,7 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 
 <!-- Project 2 -->
 <div style="display: flex; justify-content: center; padding: 1.5em 0;  ">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify; ">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">MarketPulseRT – Real-Time Stock Market Data Pipeline <span style="font-weight: normal;">(Dec 2024 – Jan 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Developed a real-time data pipeline that streams and processes stock market data using Kafka and Python.</li>
@@ -177,7 +178,7 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 
 <!-- Project 3 - LLaMA (already styled) -->
 <div style="display: flex; justify-content: center; padding: 1.5em 0;">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify; ">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">Fine-Tuning LLaMA 2 on a Telugu Instruction Dataset <span style="font-weight: normal;">(Feb 2025 – Mar 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Built a fine-tuning pipeline for LLaMA-2-7B-Chat using QLoRA on a Telugu instruction dataset in Google Colab.</li>
@@ -206,7 +207,7 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 
 <!-- Project 4 -->
 <div style="display: flex; justify-content: center; padding: 1.5em 0;">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify; ">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; ">
     <h3 style="margin-top: 0;">Bulldog‑On‑Board: University Transition Assistance App <span style="font-weight: normal;">(Jan 2024 – May 2024)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Created a Flutter-based mobile app to help incoming university students transition smoothly, with a hub for events, resources, and support.</li>
