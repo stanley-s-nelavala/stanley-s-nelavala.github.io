@@ -8,18 +8,23 @@ layout: default
 
 ## <a id="about-me"></a>
 <div style="text-align: justify;">
+  <p>
 I’m Stanley Sujith Nelavala, a recent graduate of the M.S. in Computer Science (Research Track) program at the <a href="https://scse.d.umn.edu/departments-and-programs/computer-science">University of Minnesota Duluth</a>, where I completed my degree with a 4.0/4.0 GPA. I hold a Bachelor's degree in Computer Science from <a href="https://www.iiitdm.ac.in/">IIIT D&M Kancheepuram</a> in Chennai, India.
-
+  </p>
+<p>
 I plan to pursue a Ph.D. in Computer Science in the upcoming Spring/Fall application cycles. Until then, I am seeking opportunities to apply my skills, broaden my research experience, 
 and contribute to impactful projects in both academic and industry settings. Broadly, my goal is to contribute to the design of AI systems that are not only technically robust, 
 but also socially inclusive and cognitively supportive. My research interests lie at the intersection of <b>natural language processing, social computing, and cognitive computing</b>. 
 I am particularly focused on studying how large language models (LLMs) can be developed to reflect and support diverse societal values, rather than converging toward a singular or monolithic perspective. I am also very interested in exploring how aligning LLMs with principles of human cognition—such as explanation, feedback, and decision support—can help reduce cognitive load and enhance human problem-solving. 
-
+</p>
 <p>
 Over the past two years, I have investigated <b>multimodal misinformation targeting marginalized communities</b>, focusing on how it is perceived, its societal impact, and the factors influencing its spread. As part of this work, I designed and implemented an end-to-end data pipeline - collecting TikTok browsing histories from Trans and Non-Binary participants through secure web applications, integrating surveys via Prolific, and combining this data with large-scale automated scraping. The system managed over <b>1 million videos</b> and <b>300,000 authors</b>, enriched with multimodal features through GPU-accelerated frame extraction, OCR, and metadata harvesting. For analysis, I applied <b>transformer-based topic modeling, clustering, and influence scoring</b> to uncover misinformation themes and creator dynamics, and complemented these computational insights with a perception survey linking data to lived experiences. This project taught me how to work across messy modalities with intellectual honesty, connecting technical rigor to social impact.
 </p>
+<p>
+I welcome connections—reach out to me on <a href="https://linkedin.com/in/stanley-sujith-nelavala" target="_blank">LinkedIn</a> 
+or via <a href="mailto:nelav002@d.umn.edu">email</a> to discuss projects, research, or career opportunities.
+</p>
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujith-nelavala) or [email me (nelav002@d.umn.edu)](mailto:nelav002@d.umn.edu) to discuss projects, research, or career opportunities!
 </div>
 
 ---
@@ -120,8 +125,8 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 ## <a id="projects"></a>Projects
 
 <!-- Project 1 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0;  ">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify;">
     <h3 style="margin-top: 0;">Investigating Multi‑Modal Misinformation on Transgender and Non‑Binary Issues - Masters Thesis <span style="font-weight: normal;">(Aug 2023 – Aug 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Engineered an end-to-end multimodal data pipeline combining secure participant-facing web apps, Prolific integration, and automated TikTok scraping to collect >1M videos and 300k+ unique authors.</li>
@@ -151,8 +156,8 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 </div>
 
 <!-- Project 2 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0;  ">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify; ">
     <h3 style="margin-top: 0;">MarketPulseRT – Real-Time Stock Market Data Pipeline <span style="font-weight: normal;">(Dec 2024 – Jan 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Developed a real-time data pipeline that streams and processes stock market data using Kafka and Python.</li>
@@ -171,8 +176,8 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 </div>
 
 <!-- Project 3 - LLaMA (already styled) -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0;">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify; ">
     <h3 style="margin-top: 0;">Fine-Tuning LLaMA 2 on a Telugu Instruction Dataset <span style="font-weight: normal;">(Feb 2025 – Mar 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Built a fine-tuning pipeline for LLaMA-2-7B-Chat using QLoRA on a Telugu instruction dataset in Google Colab.</li>
@@ -200,8 +205,8 @@ Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi
 </div>
 
 <!-- Project 4 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
-  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0;">
+  <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%; text-align: justify; ">
     <h3 style="margin-top: 0;">Bulldog‑On‑Board: University Transition Assistance App <span style="font-weight: normal;">(Jan 2024 – May 2024)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
       <li>Created a Flutter-based mobile app to help incoming university students transition smoothly, with a hub for events, resources, and support.</li>
