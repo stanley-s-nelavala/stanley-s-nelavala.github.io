@@ -2,23 +2,22 @@
 layout: default
 ---
 
-> “Walking on water and developing software from a specification are easy if both are frozen.”  
-> — Edward V. Berard
+> “If you are fortunate, it is better to build a longer table than a taller fence”
+
 
 
 ## <a id="about-me"></a>
 
-I’m Stanley Sujith Nelavala, a Computer Science Masters student at the <a href="https://scse.d.umn.edu/departments-and-programs/computer-science">University of Minnesota Duluth</a>, where I maintain a 4.0/4.0 GPA. I hold a Bachelor's degree in Computer Science from <a href="https://www.iiitdm.ac.in/">IIIT D&M Kancheepuram</a> in Chennai, India.
+I’m Stanley Sujith Nelavala, a recent graduate of the M.S. in Computer Science (Research Track) program at the <a href="https://scse.d.umn.edu/departments-and-programs/computer-science">University of Minnesota Duluth</a>, where I completed my degree with a 4.0/4.0 GPA. I hold a Bachelor's degree in Computer Science from <a href="https://www.iiitdm.ac.in/">IIIT D&M Kancheepuram</a> in Chennai, India.
 
-Currently, I work as a Graduate Research Assistant in the Comp4SoG Lab under Professor <a href="https://momen-bhuiyan.appspot.com/">Md Momen Bhuiyan</a>, where I’m working on *Investigating Multi-Modal Misinformation on Transgender and Nonbinary Issues on TikTok*. I'm also a Graduate Teaching Assistant at UMD, where I've helped teach a wide range of courses—from CS-I, introductory Python programming to advanced topics like natural language processing and parallel programming. Through office hours and lab sessions, I support students with coding best practices, debugging, and optimizing computational performance.
+I plan to pursue a Ph.D. in Computer Science in the upcoming Spring/Fall application cycles. Until then, I am seeking opportunities to apply my skills, broaden my research experience, 
+and contribute to impactful projects in both academic and industry settings. Broadly, my goal is to contribute to the design of AI systems that are not only technically robust, 
+but also socially inclusive and cognitively supportive. My research interests lie at the intersection of <b>natural language processing, social computing, and cognitive computing</b>. 
+I am particularly focused on studying how large language models (LLMs) can be developed to reflect and support diverse societal values, rather than converging toward a singular or monolithic perspective. I am also very interested in exploring how aligning LLMs with principles of human cognition—such as explanation, feedback, and decision support—can help reduce cognitive load and enhance human problem-solving. 
 
-My professional interests include **cloud technologies, DevOps, misinformation analysis, applied machine learning**, and **software development**. I have hands-on experience building end-to-end systems—from mobile and web apps to research platforms and automated data pipelines.
-
-I am an <a href="https://www.credly.com/badges/db14bfad-b9d2-49be-b0f9-e12933c6aeef"> AWS Certified Solutions Architect – Associate</a>, with practical experience designing and deploying scalable, full-stack applications on the AWS cloud. With passion for building solutions that are scalable, secure, and socially impactful, I'm currently seeking full-time opportunities in:
-- **Cloud / DevOps Engineering**
-- **Software Development**
-- **Applied ML / NLP roles**
-- **Trust & Safety / Misinformation Research Teams**
+<p>
+Over the past two years, I have investigated <b>multimodal misinformation targeting marginalized communities</b>, focusing on how it is perceived, its societal impact, and the factors influencing its spread. As part of this work, I designed and implemented an <b>end-to-end data pipeline</b>—collecting TikTok browsing histories from Trans and Non-Binary participants through secure web applications, integrating surveys via Prolific, and combining this data with large-scale automated scraping. The system managed over <b>1 million videos</b> and <b>300,000 authors</b>, enriched with multimodal features through GPU-accelerated frame extraction, OCR, and metadata harvesting. For analysis, I applied <b>transformer-based topic modeling, clustering, and influence scoring</b> to uncover misinformation themes and creator dynamics, and complemented these computational insights with a perception survey linking data to lived experiences. This project taught me how to work across messy modalities with intellectual honesty, connecting technical rigor to social impact.
+</p>
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujith-nelavala) or [email me (nelav002@d.umn.edu)](mailto:nelav002@d.umn.edu) to discuss projects, research, or career opportunities!
 
@@ -70,20 +69,25 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 
 <ul>
   <li>
-    <strong>Graduate Research Assistant</strong>, University of Minnesota Duluth (Dec 2024 – Present)
+    <strong>Graduate Research Assistant</strong>, University of Minnesota Duluth (Dec 2024 – Aug 2025)
     <ul>
-      <li>Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan)</li>
-      <li>
-        <strong>Project:</strong> Investigating Multi‑Modal Misinformation on Transgender and Nonbinary Issues on TikTok  
-        Responsible for architecting and implementing the entire data‑collection and analysis pipeline, including:
-        <ul>
-          <li>Designing and deploying automated systems (using emulators and web‑automation) to gather TikTok video data</li>
-          <li>Building backend infrastructure and databases to store structured video, visual, and textual metadata</li>
-          <li>Developing parsing tools for both on‑screen text (via OCR) and embedded captions</li>
-          <li>Implementing classification pipelines leveraging OCR, LDA topic modeling, and engagement metrics to characterize the spread of misinformation</li>
-        </ul>
-      </li>
+  <li>Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan)</li>
+  <li>
+    <strong>Project:</strong> Investigating Multi-Modal Misinformation on Transgender and Nonbinary (TGNB) Issues on TikTok  
+    Led the design and implementation of a large-scale multimodal data-collection and analysis pipeline, including:
+    <ul>
+      <li>Developed secure web applications to gather TikTok browsing histories from TGNB participants</li>
+      <li>Integrated survey distribution and data workflows with <b>Prolific</b>, combining participant-contributed data with large-scale automated scraping</li>
+      <li>Engineered a relational <b>MySQL database schema</b> to manage over <b>1M videos</b> and <b>300k+ unique authors</b>, structured across video metadata, author statistics, and multimodal features</li>
+      <li>Implemented <b>GPU-accelerated frame extraction</b>, <b>OCR</b> for on-screen text recognition, and automated caption parsing</li>
+      <li>Built pipelines for systematic enrichment of author-level statistics (followers, engagement metrics, activity patterns)</li>
+      <li>Applied advanced NLP methods including <b>transformer-based BERTopic modeling</b>, <b>K-Medoids</b> and subspace clustering, and <b>influence scoring</b> to analyze misinformation themes, creator dynamics, and amplification networks</li>
+      <li>Designed and deployed a <b>perception survey</b> to capture how TGNB participants encounter and respond to misinformation, linking computational analysis with lived experiences</li>
+      <li>Learned to work across messy modalities with intellectual honesty, connecting technical rigor to broader <b>social impact</b></li>
     </ul>
+  </li>
+</ul>
+
   </li>
 
   <li>
@@ -123,17 +127,24 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 <!-- Project 1 -->
 <div style="display: flex; justify-content: center; padding: 1.5em 0;">
   <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
-    <h3 style="margin-top: 0;">Investigating Multi‑Modal Misinformation on Transgender and Non‑Binary Issues <span style="font-weight: normal;">(Aug 2023 – Present)</span></h3>
+    <h3 style="margin-top: 0;">Investigating Multi‑Modal Misinformation on Transgender and Non‑Binary Issues - Masters Thesis <span style="font-weight: normal;">(Aug 2023 – Aug 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
-      <li>Developed an automated pipeline for collecting, processing, and analyzing misinformation in TikTok videos, integrating Python, Node.js, and MySQL to extract metadata, download videos, and perform text and visual content analysis.</li>
-      <li>Implemented a video processing workflow using FFmpeg and PaddleOCR to extract frames, analyze engagement trends, and perform OCR on video text for classification.</li>
-      <li>Designed visualizations and topic modeling using Pandas, Plotly, and LDA to analyze misinformation trends.</li>
+      <li>Engineered an end-to-end multimodal data pipeline combining secure participant-facing web apps, Prolific integration, and automated TikTok scraping to collect >1M videos and 300k+ unique authors.</li>
+      <li>Designed a relational <b>MySQL schema</b> for large-scale storage of video metadata, author statistics, and multimodal features with automated enrichment pipelines.</li>
+      <li>Implemented <b>GPU-accelerated frame extraction</b> (FFmpeg) and <b>OCR</b> (PaddleOCR) for on-screen text and caption parsing, integrated with metadata harvesting.</li>
+      <li>Developed NLP/ML workflows using <b>transformer-based BERTopic</b>, <b>K-Medoids clustering</b>, and <b>influence scoring</b> to model misinformation themes, creator dynamics, and amplification networks.</li>
+      <li>Linked computational findings with participant perceptions via a survey study, connecting <b>quantitative pipelines</b> to <b>lived experiences</b>.</li>
     </ul>
     <div>
       <a href="https://csgrad02.d.umn.edu/" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         Project Website
+      </a>
+      <a href="[https://csgrad02.d.umn.edu/](https://drive.google.com/file/d/1Wk2O7FezJcBiAYGiI7jG79XXarhXbDLe/view?usp=sharing)" 
+         target="_blank" rel="noopener" 
+         style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+        Thesis Draft
       </a>
       <a href="#" 
          target="_blank" rel="noopener" 
