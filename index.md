@@ -7,7 +7,7 @@ layout: default
 
 
 ## <a id="about-me"></a>
-
+<div style="text-align: justify;">
 I’m Stanley Sujith Nelavala, a recent graduate of the M.S. in Computer Science (Research Track) program at the <a href="https://scse.d.umn.edu/departments-and-programs/computer-science">University of Minnesota Duluth</a>, where I completed my degree with a 4.0/4.0 GPA. I hold a Bachelor's degree in Computer Science from <a href="https://www.iiitdm.ac.in/">IIIT D&M Kancheepuram</a> in Chennai, India.
 
 I plan to pursue a Ph.D. in Computer Science in the upcoming Spring/Fall application cycles. Until then, I am seeking opportunities to apply my skills, broaden my research experience, 
@@ -16,11 +16,11 @@ but also socially inclusive and cognitively supportive. My research interests li
 I am particularly focused on studying how large language models (LLMs) can be developed to reflect and support diverse societal values, rather than converging toward a singular or monolithic perspective. I am also very interested in exploring how aligning LLMs with principles of human cognition—such as explanation, feedback, and decision support—can help reduce cognitive load and enhance human problem-solving. 
 
 <p>
-Over the past two years, I have investigated <b>multimodal misinformation targeting marginalized communities</b>, focusing on how it is perceived, its societal impact, and the factors influencing its spread. As part of this work, I designed and implemented an <b>end-to-end data pipeline</b>—collecting TikTok browsing histories from Trans and Non-Binary participants through secure web applications, integrating surveys via Prolific, and combining this data with large-scale automated scraping. The system managed over <b>1 million videos</b> and <b>300,000 authors</b>, enriched with multimodal features through GPU-accelerated frame extraction, OCR, and metadata harvesting. For analysis, I applied <b>transformer-based topic modeling, clustering, and influence scoring</b> to uncover misinformation themes and creator dynamics, and complemented these computational insights with a perception survey linking data to lived experiences. This project taught me how to work across messy modalities with intellectual honesty, connecting technical rigor to social impact.
+Over the past two years, I have investigated <b>multimodal misinformation targeting marginalized communities</b>, focusing on how it is perceived, its societal impact, and the factors influencing its spread. As part of this work, I designed and implemented an end-to-end data pipeline - collecting TikTok browsing histories from Trans and Non-Binary participants through secure web applications, integrating surveys via Prolific, and combining this data with large-scale automated scraping. The system managed over <b>1 million videos</b> and <b>300,000 authors</b>, enriched with multimodal features through GPU-accelerated frame extraction, OCR, and metadata harvesting. For analysis, I applied <b>transformer-based topic modeling, clustering, and influence scoring</b> to uncover misinformation themes and creator dynamics, and complemented these computational insights with a perception survey linking data to lived experiences. This project taught me how to work across messy modalities with intellectual honesty, connecting technical rigor to social impact.
 </p>
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujith-nelavala) or [email me (nelav002@d.umn.edu)](mailto:nelav002@d.umn.edu) to discuss projects, research, or career opportunities!
-
+</div>
 
 ---
 
@@ -69,22 +69,17 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 
 <ul>
   <li>
-    <strong>Graduate Research Assistant</strong>, University of Minnesota Duluth (Dec 2024 – Aug 2025)
-    <ul>
-  <li>Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan)</li>
-  <li>
-    <strong>Project:</strong> Investigating Multi-Modal Misinformation on Transgender and Nonbinary (TGNB) Issues on TikTok  
-    Led the design and implementation of a large-scale multimodal data-collection and analysis pipeline, including:
-    <ul>
-      <li>Developed secure web applications to gather TikTok browsing histories from TGNB participants</li>
-      <li>Integrated survey distribution and data workflows with <b>Prolific</b>, combining participant-contributed data with large-scale automated scraping</li>
-      <li>Engineered a relational <b>MySQL database schema</b> to manage over <b>1M videos</b> and <b>300k+ unique authors</b>, structured across video metadata, author statistics, and multimodal features</li>
-      <li>Implemented <b>GPU-accelerated frame extraction</b>, <b>OCR</b> for on-screen text recognition, and automated caption parsing</li>
-      <li>Built pipelines for systematic enrichment of author-level statistics (followers, engagement metrics, activity patterns)</li>
-      <li>Applied advanced NLP methods including <b>transformer-based BERTopic modeling</b>, <b>K-Medoids</b> and subspace clustering, and <b>influence scoring</b> to analyze misinformation themes, creator dynamics, and amplification networks</li>
-      <li>Designed and deployed a <b>perception survey</b> to capture how TGNB participants encounter and respond to misinformation, linking computational analysis with lived experiences</li>
-      <li>Learned to work across messy modalities with intellectual honesty, connecting technical rigor to broader <b>social impact</b></li>
-    </ul>
+    <strong>Graduate Research Assistant</strong>, University of Minnesota Duluth (Dec 2024 – Aug 2025)  
+<br>
+Comp4SoG Lab (Advisor: Dr. Md Momen Bhuiyan) — Project: <i>Investigating Multi-Modal Misinformation on Transgender and Nonbinary (TGNB) Issues on TikTok</i>
+<ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
+  <li>Developed secure web applications to gather TikTok browsing histories from TGNB participants; integrated survey workflows via <b>Prolific</b> with large-scale automated scraping.</li>
+  <li>Engineered a relational <b>MySQL schema</b> to manage >1M videos and 300k+ authors, structured across metadata, statistics, and multimodal features.</li>
+  <li>Implemented <b>GPU-accelerated frame extraction</b> (FFmpeg) and <b>OCR</b> (PaddleOCR) for text recognition and caption parsing.</li>
+  <li>Built pipelines for systematic enrichment of author-level statistics (followers, engagement metrics, activity patterns).</li>
+  <li>Applied advanced NLP/ML methods including <b>BERTopic</b>, <b>K-Medoids clustering</b>, and <b>influence scoring</b> to analyze misinformation themes, creator dynamics, and amplification networks.</li>
+  <li>Designed and deployed a <b>perception survey</b> to connect computational insights with TGNB participants’ lived experiences.</li>
+</ul>
   </li>
 </ul>
 
@@ -125,7 +120,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 ## <a id="projects"></a>Projects
 
 <!-- Project 1 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
   <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">Investigating Multi‑Modal Misinformation on Transgender and Non‑Binary Issues - Masters Thesis <span style="font-weight: normal;">(Aug 2023 – Aug 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
@@ -156,7 +151,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 </div>
 
 <!-- Project 2 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
   <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">MarketPulseRT – Real-Time Stock Market Data Pipeline <span style="font-weight: normal;">(Dec 2024 – Jan 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
@@ -176,7 +171,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 </div>
 
 <!-- Project 3 - LLaMA (already styled) -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
   <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">Fine-Tuning LLaMA 2 on a Telugu Instruction Dataset <span style="font-weight: normal;">(Feb 2025 – Mar 2025)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
@@ -205,7 +200,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
 </div>
 
 <!-- Project 4 -->
-<div style="display: flex; justify-content: center; padding: 1.5em 0;">
+<div style="display: flex; justify-content: center; padding: 1.5em 0; text-align: justify; ">
   <div style="background: white; border-radius: 1rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 1.5rem; max-width: 800px; width: 100%;">
     <h3 style="margin-top: 0;">Bulldog‑On‑Board: University Transition Assistance App <span style="font-weight: normal;">(Jan 2024 – May 2024)</span></h3>
     <ul style="padding-left: 1.2em; margin-bottom: 1.2em;">
