@@ -141,16 +141,16 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/stanley-sujit
          style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         Project Website
       </a>
-      <a href="[https://csgrad02.d.umn.edu/](https://drive.google.com/file/d/1Wk2O7FezJcBiAYGiI7jG79XXarhXbDLe/view?usp=sharing)" 
+      <a href="https://drive.google.com/file/d/1Wk2O7FezJcBiAYGiI7jG79XXarhXbDLe/view?usp=sharing" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; margin-right: 0.5em; background-color: rgb(0, 93, 192); color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         Thesis Draft
       </a>
-      <a href="#" 
+      <!-- <a href="#" 
          target="_blank" rel="noopener" 
          style="display: inline-block; padding: 0.4em 1em; background-color: #000; color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
         GitHub (Coming Soon)
-      </a>
+      </a> -->
     </div>
   </div>
 </div>
