@@ -14,7 +14,7 @@ I’m Stanley Sujith Nelavala, a recent graduate of the M.S. in Computer Science
 <p>
 I plan to pursue a Ph.D. in Computer Science in the upcoming Spring/Fall application cycles. Until then, I am seeking opportunities to apply my skills, broaden my research experience, 
 and contribute to impactful projects in both academic and industry settings. Broadly, my goal is to contribute to the design of AI systems that are not only technically robust, 
-but also socially inclusive and cognitively supportive. My research interests lie at the intersection of <b>natural language processing, social computing, and cognitive computing</b>. 
+but also socially inclusive and cognitively supportive. My research interests lie at the intersection of <b>social computing, HCI, AI and social computing</b>. 
 I am particularly focused on studying how large language models (LLMs) can be developed to reflect and support diverse societal values, rather than converging toward a singular or monolithic perspective. I am also very interested in exploring how aligning LLMs with principles of human cognition—such as explanation, feedback, and decision support—can help reduce cognitive load and enhance human problem-solving. 
 </p>
 <p>
