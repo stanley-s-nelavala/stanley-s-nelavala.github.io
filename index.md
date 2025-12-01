@@ -3,7 +3,11 @@ layout: default
 ---
 
 > “If you are fortunate, it is better to build a longer table than a taller fence”
+
+
 ---
+
+
 ## <a id="my-cv"></a>CV
 
 <!-- 📄 <a href="assets/Files/Stanley_Resume_Latest.pdf" target="_blank">Download Resume (PDF)</a> -->
