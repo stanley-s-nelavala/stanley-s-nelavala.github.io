@@ -3,8 +3,19 @@ layout: default
 ---
 
 > “If you are fortunate, it is better to build a longer table than a taller fence”
+---
+## <a id="my-cv"></a>CV
 
+<!-- 📄 <a href="assets/Files/Stanley_Resume_Latest.pdf" target="_blank">Download Resume (PDF)</a> -->
+<p> I update my CV regularly to reflect my latest research, projects, and academic commitments.  
+If you’d like a deeper understanding of my work and interests, I encourage you to take a look—it offers the most complete picture of what I do and what I care about. </p>
+<a href="assets/Files/Stanley_s_CV.pdf" 
+         target="_blank" rel="noopener" 
+         style="display: inline-block; padding: 0.4em 1em; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-size: 0.9em;">
+        📄 Stanley's CV (PDF)
+      </a>
 
+---
 
 ## <a id="about-me"></a>
 <div style="text-align: justify;">
