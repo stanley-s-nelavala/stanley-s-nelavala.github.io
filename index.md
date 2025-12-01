@@ -21,7 +21,7 @@ If you’d like a deeper understanding of my work and interests, I encourage you
 
 ---
 
-## <a id="about-me"></a>
+## <a id="about-me"></a> About Me
 <div style="text-align: justify;">
   <p>
 I’m Stanley Sujith Nelavala, a recent graduate of the M.S. in Computer Science (Research Track) program at the <a href="https://scse.d.umn.edu/departments-and-programs/computer-science">University of Minnesota Duluth</a>, where I completed my degree with a 4.0/4.0 GPA. I hold a Bachelor's degree in Computer Science from <a href="https://www.iiitdm.ac.in/">IIIT D&M Kancheepuram</a> in Chennai, India.
