@@ -8,7 +8,7 @@ layout: default
 ---
 
 
-## <a id="my-cv"></a>CV
+## <a id="my-cv"></a>Latest CV
 
 <!-- 📄 <a href="assets/Files/Stanley_Resume_Latest.pdf" target="_blank">Download Resume (PDF)</a> -->
 <p> I update my CV regularly to reflect my latest research, projects, and academic commitments.  
